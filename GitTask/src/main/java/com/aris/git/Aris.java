@@ -4,7 +4,12 @@ public class Aris {
 
 	public static void main(String[] args) {
 
-	 System.out.println("User2");// Un comment User1
+		String s = "  abc  def\t     vv"    ;
+		
+		s = s.strip();
+				
+		System.out.println(s);
+		
 
 	}
 
