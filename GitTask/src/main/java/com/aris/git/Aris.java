@@ -7,7 +7,6 @@ public class Aris {
 		String s = "  abc  def\t     vv";
 		s = s.strip();
 		System.out.println(s);
-		
 	}
 
 }
