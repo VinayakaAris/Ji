@@ -4,7 +4,7 @@ public class Aris {
 
 	public static void main(String[] args) {
 		String s = "  abc  def\t     vv"; 
-		s = s.strip();
+		s = s.strip(); 
 		System.out.println(s);
 	}
 
