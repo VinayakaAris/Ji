@@ -8,7 +8,7 @@ public class Aris {
 		
 		s = s.strip();
 				
-		System.out.println(s);
+		System.out.println(s);  
 		
 
 	}
